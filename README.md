@@ -1,4 +1,4 @@
-<mark><b>o access the live folders please enter the below URL :<b>
+<mark><b> To access the live folders please enter the below URL :<b>
 
 <b>https://dsingh27-bing.github.io/WebD_projects/<b>
 
